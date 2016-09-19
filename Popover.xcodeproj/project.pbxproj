@@ -230,7 +230,6 @@
 				TargetAttributes = {
 					E9C640F41D8E32F2002C2C21 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 86RWA7ZX6L;
 						ProvisioningStyle = Automatic;
 					};
 					E9C6410D1D8E32F2002C2C21 = {
@@ -453,7 +452,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 86RWA7ZX6L;
+				DEVELOPMENT_TEAM = "";
 				GCC_PREFIX_HEADER = /Users/lx/Desktop/Popover/Popover/Popover.h;
 				INFOPLIST_FILE = Popover/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -466,7 +465,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 86RWA7ZX6L;
+				DEVELOPMENT_TEAM = "";
 				GCC_PREFIX_HEADER = /Users/lx/Desktop/Popover/Popover/Popover.h;
 				INFOPLIST_FILE = Popover/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
